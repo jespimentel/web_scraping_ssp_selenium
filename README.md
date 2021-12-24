@@ -10,7 +10,7 @@
 - A análise dos dados ficou restrita aos flagrantes lavrados e inquéritos policiais instaurados, por ano e Delegacia, com uso de groupby. Os resultados foram plotados. 
 
 ### Obs.: 
-Os dados reunidos no arquivo csv foram usados para gerar as visualizações em Flourush Studio:
+Os dados reunidos no arquivo csv foram usados para gerar as visualizações em Flourish Studio:
 
 https://public.flourish.studio/visualisation/8217108/
 
