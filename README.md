@@ -14,8 +14,5 @@ Os dados reunidos no arquivo csv foram usados para gerar as visualizações em F
 
 https://public.flourish.studio/visualisation/8217108/
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8217108"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 https://public.flourish.studio/visualisation/8217172/
-
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8217172"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
