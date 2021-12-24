@@ -1,5 +1,5 @@
-# Raspagem de dados da SPP e análise dos dados obtidos
-## Polícia Civil de Piracicaba: de 2010 a 2021 (não foram computados os dados de Dezembro).
+# Raspagem de dados da SPP (Python e Selenium) e análise dos dados obtidos (Pandas)
+## Polícia Civil de Piracicaba: de 2010 a 2021 (não foram computados os dados de Dezembro)
 
 ### scraping_SSP_com_selenium.ipynb
 - O projeto faz uso do Python e do Selenium para obter os dados da produtividade da Polícia Civil de Piracicaba, percorrendo o site da SSP/SP (https://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx), pelos anos de 2010 a 2021 e delegacias de polícia do Município.
